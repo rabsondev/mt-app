@@ -17,5 +17,5 @@ We'll use the [Open Trivia Database](https://opentdb.com/) for the questions.
 ## Phase 1 - Starter Pack
 1. Create a new Nuxt 3 project.
 2. The home page should:
-	* Use a default layout.
+	* Use a default layout for the home page.
 	* Display all the Trivia categories a user can choose.
